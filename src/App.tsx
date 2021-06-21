@@ -1,25 +1,24 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import GlobalStyle from './styles/global';
+import  Sidebar  from './components/Sidebar/index';
+import { Container, LateralDiv } from './components/Divs/styles';
+import Side from './components/Side/index';
+import MainDiv from './components/Divs/Main';
+import AppProvider from './context/Provider';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <AppProvider>
+      <Container>
+        <GlobalStyle />
+        <LateralDiv>
+          <Side />
+          <Sidebar />
+        </LateralDiv>
+        <MainDiv />
+      </Container>
+    </AppProvider>
+    
   );
 }
 

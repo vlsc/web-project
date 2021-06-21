@@ -1,0 +1,142 @@
+[   
+    [
+        {
+            "name": "blue",       
+            "duration": 3
+        },
+        {
+            "name": "red",
+            "duration": 2
+        },
+        {
+            "name": "purple",
+            "duration": 2.5
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 9
+        },
+        {
+            "name": "red",
+            "duration": 10
+        },
+        {
+            "name": "purple",
+            "duration": 1
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 5
+        },
+        {
+            "name": "red",
+            "duration": 10
+        },
+        {
+            "name": "purple",
+            "duration": 7
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 7
+        },
+        {
+            "name": "red",
+            "duration": 10
+        },
+        {
+            "name": "purple",
+            "duration": 3
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 9
+        },
+        {
+            "name": "red",
+            "duration": 7
+        },
+        {
+            "name": "purple",
+            "duration": 5
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 9
+        },
+        {
+            "name": "red",
+            "duration": 5
+        },
+        {
+            "name": "purple",
+            "duration": 4
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 5
+        },
+        {
+            "name": "red",
+            "duration": 1
+        },
+        {
+            "name": "purple",
+            "duration": 9
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 10
+        },
+        {
+            "name": "red",
+            "duration": 9
+        },
+        {
+            "name": "purple",
+            "duration": 8
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 3
+        },
+        {
+            "name": "red",
+            "duration": 10
+        },
+        {
+            "name": "purple",
+            "duration": 5
+        }
+    ],
+    [
+        {
+            "name": "blue",
+            "duration": 3
+        },
+        {
+            "name": "red",
+            "duration": 2
+        },
+        {
+            "name": "purple",
+            "duration": 2.5
+        }
+    ]
+]
